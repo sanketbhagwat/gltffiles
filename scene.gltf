@@ -372,19 +372,19 @@
   ],
   "images": [
     {
-      "uri": "textures/gold.000_metallicRoughness.png"
+      "uri": "gold.000_metallicRoughness.png"
     },
     {
-      "uri": "textures/Material.002_metallicRoughness.png"
+      "uri": "Material.002_metallicRoughness.png"
     },
     {
-      "uri": "textures/Material.001_normal.png"
+      "uri": "Material.001_normal.png"
     },
     {
-      "uri": "textures/Material.001_baseColor.png"
+      "uri": "Material.001_baseColor.png"
     },
     {
-      "uri": "textures/Material.003_metallicRoughness.png"
+      "uri": "Material.003_metallicRoughness.png"
     }
   ],
   "materials": [
